@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We're Tin Systems Platform organization. We evelop the tinos from now on. All Tinos version can be gotten from this organizatiom.
+We're Tin Systems Platform organization. We develop the tinos from now on. All Tinos version can be gotten from this organizatiom.
 
 
 We're currently looking for contributors for our projects.
