@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
+We're Tin Systems Platform. We develop the Tinos line of operating systems. 
 
-**Here are some ideas to get you started:**
+Check out our repositories from [https://github.com/orgs/Tin-Systems-Platform/repositories](https://github.com/orgs/Tin-Systems-Platform/repositories?type=source).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-We're Tin Systems Platform organization. We develop the tinos from now on. All Tinos version can be gotten from this organizatiom.
+We're also a really small team of developers, currently just 1. Our passion is Open Source Software (OSS)
 
+Our focus is to develop OS and platform projects.
 
-We're currently looking for contributors for our projects.
+## Projects
+Here's the list of current projects:
+* [Tinos3](https://github.com/Tin-Systems-Platform/Tinos3)
+* [Tinos3 website](https://github.com/Tin-Systems-Platform/tinos3-website)
