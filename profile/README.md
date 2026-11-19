@@ -12,3 +12,6 @@ Our focus is to develop OS and platform projects.
 Here's the list of current projects:
 * [Tinos3](https://github.com/Tin-Systems-Platform/Tinos3)
 * [Tinos3 website](https://github.com/Tin-Systems-Platform/tinos3-website)
+* [TinosNX](https://github.com/Tin-Systems-Platform/TinosNX)
+* [Tinos mobile](https://github.com/Tin-Systems-Platform/Tinos-mobile)
+* [tinosvb](https://github.com/Tin-Systems-Platform/tinosvb)
